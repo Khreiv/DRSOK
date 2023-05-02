@@ -9,6 +9,9 @@ Digital Radio Station Player
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
+### Do you want to download a compiled version (exe)?
+
+[![HERE](https://img.shields.io/badge/HERE-00AFAA.svg?style=for-the-badge&logo=HERE&logoColor=white)](https://github.com/Khreiv/DRSOK/releases/tag/EXE)
 _______________________________________________________________________________________________________________________________________________________________________
 
 
