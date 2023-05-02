@@ -11,7 +11,7 @@ Digital Radio Station Player
 
 ### Do you want to download a compiled version (exe)?
 
-[![HERE](https://img.shields.io/badge/HERE-00AFAA.svg?style=for-the-badge&logo=HERE&logoColor=white)](https://github.com/Khreiv/DRSOK/releases/tag/EXE)
+[![HERE](https://img.shields.io/badge/HERE-00AFAA.svg?style=for-the-badge&logo=HERE&logoColor=white)](https://github.com/Khreiv/DRSOK/releases/tag/Beta)
 _______________________________________________________________________________________________________________________________________________________________________
 
 
