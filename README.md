@@ -9,15 +9,6 @@ Digital Radio Station Player
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-## REQUIRIMENTS
-
-RAM: 54 MB
-
-Internet connection 0'1 MB/s
-
-VLC Media Player
-
-
 _______________________________________________________________________________________________________________________________________________________________________
 
 
