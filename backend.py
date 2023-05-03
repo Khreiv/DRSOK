@@ -204,24 +204,24 @@ class Backend:
                 if self.min_number_of_results > 0:
                     self.max_number_of_results -= 20
                     self.min_number_of_results -= 20
+                    self.draw_countries()
             else:
                 if len(self.countries) > self.max_number_of_results:
                     self.max_number_of_results += 20
                     self.min_number_of_results += 20
-
-            self.draw_countries()
+                    self.draw_countries()
 
         else:
             if prev:
                 if self.min_number_of_results > 0:
                     self.max_number_of_results -= 20
                     self.min_number_of_results -= 20
+                    self.click_search_action_btn(False)
             else:
                 if len(self.names) > self.max_number_of_results:
                     self.max_number_of_results += 20
                     self.min_number_of_results += 20
-
-            self.click_search_action_btn(False)
+                    self.click_search_action_btn(False)
 
     def click_clean_search(self):
         self.reset_results_number()
