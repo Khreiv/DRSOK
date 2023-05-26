@@ -142,6 +142,6 @@ Here you can acces the API in multiple programing languages https://api.radio-br
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-## UNDER MIT LICENSE
+## UNDER GPL v3 LICENSE
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
